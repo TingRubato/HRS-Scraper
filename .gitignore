@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.db
+*.log
+*.jsonl
+*.csv
+.hrs_scraper_chrome_profile/
